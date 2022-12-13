@@ -1,0 +1,30 @@
+.header-section {
+    width: 100%;
+    height: 100vh;
+    background: url('../img/factores-alimentarios-3.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-heading{
+    font-size: 100px;
+    text-transform: capitalize;
+    color: purple;
+}
+.header-heading span {
+    /*color: #d5be8b;*/
+    color: darkorchid;
+}
+/* Footer */
+footer { 
+    font-family: 'Euclid Circular A';
+    background: #190c05;
+    color: #7CB5D2;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 25px;
+}
